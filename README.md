@@ -1,6 +1,4 @@
 # Drowsiness-Detection-using-MobileNet
-# Proyek Deteksi Status Mata Pengendara menggunakan Transfer Learning
-
 Proyek ini menggunakan bahasa pemrograman Python dan memanfaatkan modul-modul dari library TensorFlow untuk melatih model machine learning serta library OpenCV untuk mendeteksi status mata pengendara.
 
 ## Teknik Vision-Based
