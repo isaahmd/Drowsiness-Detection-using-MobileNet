@@ -1,4 +1,5 @@
 # Drowsiness-Detection-using-MobileNet
+### Oleh Bagus Isa Ahmad (18121044) dan Zakariyya Gambetta (18121007)
 Proyek ini menggunakan bahasa pemrograman Python dan memanfaatkan modul-modul dari library TensorFlow untuk melatih model machine learning serta library OpenCV untuk mendeteksi status mata pengendara.
 
 ## Teknik Vision-Based
